@@ -47,5 +47,5 @@ titanic-survival-prediction/
     ├── graphs.png
     └── confusion_matrix.png
 
-## 👩‍💻 Author
+##  Author
 Manasa T M
